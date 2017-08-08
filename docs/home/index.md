@@ -8,7 +8,7 @@ cid: userJourneys
 ---
 
 <section id="hero" class="light-text">
-    <h1>Kubernetes Boot Camps</h1>
+    <h1>Kubernetes Wayfinder</h1>
     <h5>Customized paths through the documentation.</h5>
 </section>
 
